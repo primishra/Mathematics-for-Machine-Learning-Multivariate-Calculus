@@ -10,4 +10,4 @@
 - Gradient of a Curve - [https://revisionmaths.com/gcse-maths-revision/algebra/gradients-and-graphs](https://revisionmaths.com/gcse-maths-revision/algebra/gradients-and-graphs)
 - Derivative - [https://www.mathsisfun.com/calculus/derivatives-introduction.html](https://www.mathsisfun.com/calculus/derivatives-introduction.html)
 - Total Derivative - [https://math.wikia.org/wiki/Total_derivative](https://math.wikia.org/wiki/Total_derivative)
-- Jaconian - [http://www.stat.rice.edu/~dobelman/notes_papers/math/Jacobian.pdf](http://www.stat.rice.edu/~dobelman/notes_papers/math/Jacobian.pdf)
+- Jacobian - [http://www.stat.rice.edu/~dobelman/notes_papers/math/Jacobian.pdf](http://www.stat.rice.edu/~dobelman/notes_papers/math/Jacobian.pdf)
