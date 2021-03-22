@@ -17,4 +17,12 @@
 - Multivariable Chain Rule - [https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Calculus_(OpenStax)/14%3A_Differentiation_of_Functions_of_Several_Variables/14.5%3A_The_Chain_Rule_for_Multivariable_Functions](https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Calculus_(OpenStax)/14%3A_Differentiation_of_Functions_of_Several_Variables/14.5%3A_The_Chain_Rule_for_Multivariable_Functions)
 - Multivariable Chain Rule - [https://mathinsight.org/chain_rule_multivariable_introduction](https://mathinsight.org/chain_rule_multivariable_introduction)
 - Multivariable Chain Rule - [https://www2.math.upenn.edu/~pemantle/110-public/notes11.pdf](https://www2.math.upenn.edu/~pemantle/110-public/notes11.pdf)
-- 
+
+#### Taylor Series
+- [https://en.wikipedia.org/wiki/Taylor_series](https://en.wikipedia.org/wiki/Taylor_series)
+- [https://tutorial.math.lamar.edu/classes/calcii/taylorseries.aspx](https://tutorial.math.lamar.edu/classes/calcii/taylorseries.aspx)
+- [https://www.mathsisfun.com/algebra/taylor-series.html](https://www.mathsisfun.com/algebra/taylor-series.html)
+
+#### Maclaurin Series
+- [https://brilliant.org/wiki/maclaurin-series/](https://brilliant.org/wiki/maclaurin-series/)
+- [https://www.intmath.com/series-expansion/2-maclaurin-series.php](https://www.intmath.com/series-expansion/2-maclaurin-series.php)
