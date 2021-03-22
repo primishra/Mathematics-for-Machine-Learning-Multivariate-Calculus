@@ -14,3 +14,7 @@
 - The Hessian - [https://brilliant.org/wiki/hessian-matrix/](https://brilliant.org/wiki/hessian-matrix/)
 - The Hessian - [http://faculty.bard.edu/~belk/math241/SecondDerivatives.pdf](http://faculty.bard.edu/~belk/math241/SecondDerivatives.pdf)
 - Saddle Point - [https://www.math.tamu.edu/~tkiffe/calc3/saddle/saddle.html](https://www.math.tamu.edu/~tkiffe/calc3/saddle/saddle.html)
+- Multivariable Chain Rule - [https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Calculus_(OpenStax)/14%3A_Differentiation_of_Functions_of_Several_Variables/14.5%3A_The_Chain_Rule_for_Multivariable_Functions](https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Calculus_(OpenStax)/14%3A_Differentiation_of_Functions_of_Several_Variables/14.5%3A_The_Chain_Rule_for_Multivariable_Functions)
+- Multivariable Chain Rule - [https://mathinsight.org/chain_rule_multivariable_introduction](https://mathinsight.org/chain_rule_multivariable_introduction)
+- Multivariable Chain Rule - [https://www2.math.upenn.edu/~pemantle/110-public/notes11.pdf](https://www2.math.upenn.edu/~pemantle/110-public/notes11.pdf)
+- 
