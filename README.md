@@ -25,5 +25,5 @@
 
 #### Maclaurin Series
 - [https://brilliant.org/wiki/maclaurin-series/](https://brilliant.org/wiki/maclaurin-series/)
-- sdnfls - [https://www.intmath.com/series-expansion/2-maclaurin-series.php](https://www.intmath.com/series-expansion/2-maclaurin-series.php)
-         - [https://www.intmath.com/series-expansion/2-maclaurin-series.php](https://www.intmath.com/series-expansion/2-maclaurin-series.php)
+- [https://www.intmath.com/series-expansion/2-maclaurin-series.php](https://www.intmath.com/series-expansion/2-maclaurin-series.php)
+ 
