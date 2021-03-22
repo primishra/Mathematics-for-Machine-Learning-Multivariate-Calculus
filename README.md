@@ -11,3 +11,5 @@
 - Derivative - [https://www.mathsisfun.com/calculus/derivatives-introduction.html](https://www.mathsisfun.com/calculus/derivatives-introduction.html)
 - Total Derivative - [https://math.wikia.org/wiki/Total_derivative](https://math.wikia.org/wiki/Total_derivative)
 - Jacobian - [http://www.stat.rice.edu/~dobelman/notes_papers/math/Jacobian.pdf](http://www.stat.rice.edu/~dobelman/notes_papers/math/Jacobian.pdf)
+- The Hessian - [https://brilliant.org/wiki/hessian-matrix/](https://brilliant.org/wiki/hessian-matrix/)
+- The Hessian - [http://faculty.bard.edu/~belk/math241/SecondDerivatives.pdf](http://faculty.bard.edu/~belk/math241/SecondDerivatives.pdf)
