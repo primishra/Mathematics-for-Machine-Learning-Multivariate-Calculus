@@ -13,3 +13,4 @@
 - Jacobian - [http://www.stat.rice.edu/~dobelman/notes_papers/math/Jacobian.pdf](http://www.stat.rice.edu/~dobelman/notes_papers/math/Jacobian.pdf)
 - The Hessian - [https://brilliant.org/wiki/hessian-matrix/](https://brilliant.org/wiki/hessian-matrix/)
 - The Hessian - [http://faculty.bard.edu/~belk/math241/SecondDerivatives.pdf](http://faculty.bard.edu/~belk/math241/SecondDerivatives.pdf)
+- Saddle Point - [https://www.math.tamu.edu/~tkiffe/calc3/saddle/saddle.html](https://www.math.tamu.edu/~tkiffe/calc3/saddle/saddle.html)
