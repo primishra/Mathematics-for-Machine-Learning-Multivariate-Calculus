@@ -18,6 +18,8 @@
 - Multivariable Chain Rule - [https://mathinsight.org/chain_rule_multivariable_introduction](https://mathinsight.org/chain_rule_multivariable_introduction)
 - Multivariable Chain Rule - [https://www2.math.upenn.edu/~pemantle/110-public/notes11.pdf](https://www2.math.upenn.edu/~pemantle/110-public/notes11.pdf)
 
+---
+
 #### Taylor Series
 - [https://en.wikipedia.org/wiki/Taylor_series](https://en.wikipedia.org/wiki/Taylor_series)
 - [https://tutorial.math.lamar.edu/classes/calcii/taylorseries.aspx](https://tutorial.math.lamar.edu/classes/calcii/taylorseries.aspx)
@@ -27,3 +29,6 @@
 - [https://brilliant.org/wiki/maclaurin-series/](https://brilliant.org/wiki/maclaurin-series/)
 - [https://www.intmath.com/series-expansion/2-maclaurin-series.php](https://www.intmath.com/series-expansion/2-maclaurin-series.php)
  
+---
+
+- Linearization and Differentials - [https://math.libretexts.org/Bookshelves/Calculus/Map%3A_University_Calculus_(Hass_et_al)/3%3A_Differentiation/3.11%3A_Linearization_and_Differentials](https://math.libretexts.org/Bookshelves/Calculus/Map%3A_University_Calculus_(Hass_et_al)/3%3A_Differentiation/3.11%3A_Linearization_and_Differentials)
