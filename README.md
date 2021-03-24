@@ -32,3 +32,18 @@
 ---
 
 - Linearization and Differentials - [https://math.libretexts.org/Bookshelves/Calculus/Map%3A_University_Calculus_(Hass_et_al)/3%3A_Differentiation/3.11%3A_Linearization_and_Differentials](https://math.libretexts.org/Bookshelves/Calculus/Map%3A_University_Calculus_(Hass_et_al)/3%3A_Differentiation/3.11%3A_Linearization_and_Differentials)
+
+
+---
+
+#### Lagrange Multipliers Method 
+- [https://tutorial.math.lamar.edu/classes/calciii/lagrangemultipliers.aspx](https://tutorial.math.lamar.edu/classes/calciii/lagrangemultipliers.aspx)
+- [https://www.cantorsparadise.com/the-method-of-lagrange-multipliers-85da7ae86799](https://www.cantorsparadise.com/the-method-of-lagrange-multipliers-85da7ae86799)
+- [https://towardsdatascience.com/optimization-with-constraints-using-lagrange-multiplier-in-python-82769c9a43fe](https://towardsdatascience.com/optimization-with-constraints-using-lagrange-multiplier-in-python-82769c9a43fe)
+
+
+
+---
+---
+
+Here is a github repository link where all the answers to the questions can be found that are in the course - [https://github.com/launchcode01dl/mathematics-for-machine-learning-cousera/tree/master/course2%20-%20multivariate%20calculus](https://github.com/launchcode01dl/mathematics-for-machine-learning-cousera/tree/master/course2%20-%20multivariate%20calculus)
